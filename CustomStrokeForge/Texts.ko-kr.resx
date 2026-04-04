@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+<data name="CurrentCulture" xml:space="preserve"><value>ko-kr</value></data>
+<data name="CustomStrokeForge" xml:space="preserve"><value>커스텀 스트로크 포지</value></data>
+<data name="TagStroke" xml:space="preserve"><value>스트로크</value></data>
+<data name="TagOutline" xml:space="preserve"><value>아웃라인</value></data>
+<data name="TagCustom" xml:space="preserve"><value>커스텀</value></data>
+<data name="GroupEditor" xml:space="preserve"><value>에디터</value></data>
+<data name="GroupStroke" xml:space="preserve"><value>스트로크</value></data>
+<data name="GroupPattern" xml:space="preserve"><value>패턴</value></data>
+<data name="GroupAdvanced" xml:space="preserve"><value>고급</value></data>
+<data name="TabStroke" xml:space="preserve"><value>스트로크</value></data>
+<data name="TabPattern" xml:space="preserve"><value>패턴</value></data>
+<data name="TabAdvanced" xml:space="preserve"><value>고급</value></data>
+<data name="StrokeStyleLabel" xml:space="preserve"><value>선 스타일</value></data>
+<data name="StrokeStyleDesc" xml:space="preserve"><value>스트로크 선 스타일을 선택합니다.</value></data>
+<data name="StrokeWidth" xml:space="preserve"><value>선 너비</value></data>
+<data name="StrokeWidthDesc" xml:space="preserve"><value>스트로크 너비 (px).</value></data>
+<data name="StrokeColor" xml:space="preserve"><value>색상</value></data>
+<data name="StrokeColorDesc" xml:space="preserve"><value>스트로크 색상.</value></data>
+<data name="StrokeOpacity" xml:space="preserve"><value>불투명도</value></data>
+<data name="StrokeOpacityDesc" xml:space="preserve"><value>스트로크 불투명도 (0-100%).</value></data>
+<data name="StrokePosition" xml:space="preserve"><value>위치</value></data>
+<data name="StrokePositionDesc" xml:space="preserve"><value>스트로크 위치를 선택합니다.</value></data>
+<data name="DashLength" xml:space="preserve"><value>대시 길이</value></data>
+<data name="DashLengthDesc" xml:space="preserve"><value>대시 세그먼트 길이 (px).</value></data>
+<data name="GapLength" xml:space="preserve"><value>간격 길이</value></data>
+<data name="GapLengthDesc" xml:space="preserve"><value>세그먼트 간 간격 길이 (px).</value></data>
+<data name="ShortDashLength" xml:space="preserve"><value>짧은 대시</value></data>
+<data name="ShortDashLengthDesc" xml:space="preserve"><value>체인 패턴의 짧은 대시 길이 (px).</value></data>
+<data name="DoubleGap" xml:space="preserve"><value>이중선 간격</value></data>
+<data name="DoubleGapDesc" xml:space="preserve"><value>이중선 간 간격 (px).</value></data>
+<data name="WaveAmplitude" xml:space="preserve"><value>파 진폭</value></data>
+<data name="WaveAmplitudeDesc" xml:space="preserve"><value>웨이브 패턴의 진폭 (px).</value></data>
+<data name="WaveFrequency" xml:space="preserve"><value>파 주파수</value></data>
+<data name="WaveFrequencyDesc" xml:space="preserve"><value>웨이브 패턴의 주파수.</value></data>
+<data name="PhaseOffset" xml:space="preserve"><value>위상 오프셋</value></data>
+<data name="PhaseOffsetDesc" xml:space="preserve"><value>패턴 위상 오프셋.</value></data>
+<data name="Softness" xml:space="preserve"><value>부드러움</value></data>
+<data name="SoftnessDesc" xml:space="preserve"><value>스트로크 가장자리의 부드러움.</value></data>
+<data name="StyleSolid" xml:space="preserve"><value>실선</value></data>
+<data name="StyleSolidDesc" xml:space="preserve"><value>연속 실선.</value></data>
+<data name="StyleDotted" xml:space="preserve"><value>점선</value></data>
+<data name="StyleDottedDesc" xml:space="preserve"><value>점으로 구성된 선.</value></data>
+<data name="StyleDashed" xml:space="preserve"><value>파선</value></data>
+<data name="StyleDashedDesc" xml:space="preserve"><value>짧은 선분 반복.</value></data>
+<data name="StyleChain" xml:space="preserve"><value>쇄선</value></data>
+<data name="StyleChainDesc" xml:space="preserve"><value>장단 선분이 교대하는 선.</value></data>
+<data name="StyleDouble" xml:space="preserve"><value>이중선</value></data>
+<data name="StyleDoubleDesc" xml:space="preserve"><value>두 개의 평행선.</value></data>
+<data name="StyleWave" xml:space="preserve"><value>파선</value></data>
+<data name="StyleWaveDesc" xml:space="preserve"><value>파형 스트로크 패턴.</value></data>
+<data name="PositionOuter" xml:space="preserve"><value>외부</value></data>
+<data name="PositionOuterDesc" xml:space="preserve"><value>도형 외부에 스트로크.</value></data>
+<data name="PositionCenter" xml:space="preserve"><value>중앙</value></data>
+<data name="PositionCenterDesc" xml:space="preserve"><value>가장자리 중앙에 스트로크.</value></data>
+<data name="PositionInner" xml:space="preserve"><value>내부</value></data>
+<data name="PositionInnerDesc" xml:space="preserve"><value>도형 내부에 스트로크.</value></data>
+</root>

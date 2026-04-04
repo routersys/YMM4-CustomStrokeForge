@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+<data name="CurrentCulture" xml:space="preserve"><value>ja-jp</value></data>
+<data name="CustomStrokeForge" xml:space="preserve"><value>カスタム縁取り</value></data>
+<data name="TagStroke" xml:space="preserve"><value>縁取り</value></data>
+<data name="TagOutline" xml:space="preserve"><value>アウトライン</value></data>
+<data name="TagCustom" xml:space="preserve"><value>カスタム</value></data>
+<data name="GroupEditor" xml:space="preserve"><value>エディタ</value></data>
+<data name="GroupStroke" xml:space="preserve"><value>縁取り</value></data>
+<data name="GroupPattern" xml:space="preserve"><value>パターン</value></data>
+<data name="GroupAdvanced" xml:space="preserve"><value>詳細</value></data>
+<data name="TabStroke" xml:space="preserve"><value>縁取り</value></data>
+<data name="TabPattern" xml:space="preserve"><value>パターン</value></data>
+<data name="TabAdvanced" xml:space="preserve"><value>詳細</value></data>
+<data name="StrokeStyleLabel" xml:space="preserve"><value>線種</value></data>
+<data name="StrokeStyleDesc" xml:space="preserve"><value>縁取りの線種を選択します</value></data>
+<data name="StrokeWidth" xml:space="preserve"><value>線幅</value></data>
+<data name="StrokeWidthDesc" xml:space="preserve"><value>縁取りの太さ (px)</value></data>
+<data name="StrokeColor" xml:space="preserve"><value>色</value></data>
+<data name="StrokeColorDesc" xml:space="preserve"><value>縁取りの色</value></data>
+<data name="StrokeOpacity" xml:space="preserve"><value>不透明度</value></data>
+<data name="StrokeOpacityDesc" xml:space="preserve"><value>縁取りの不透明度 (0-100%)</value></data>
+<data name="StrokePosition" xml:space="preserve"><value>位置</value></data>
+<data name="StrokePositionDesc" xml:space="preserve"><value>縁取りの位置を選択します</value></data>
+<data name="DashLength" xml:space="preserve"><value>破線長</value></data>
+<data name="DashLengthDesc" xml:space="preserve"><value>破線部分の長さ (px)</value></data>
+<data name="GapLength" xml:space="preserve"><value>間隔</value></data>
+<data name="GapLengthDesc" xml:space="preserve"><value>隙間の長さ (px)</value></data>
+<data name="ShortDashLength" xml:space="preserve"><value>短破線長</value></data>
+<data name="ShortDashLengthDesc" xml:space="preserve"><value>鎖線の短破線の長さ (px)</value></data>
+<data name="DoubleGap" xml:space="preserve"><value>二重線間隔</value></data>
+<data name="DoubleGapDesc" xml:space="preserve"><value>二重線の間隔 (px)</value></data>
+<data name="WaveAmplitude" xml:space="preserve"><value>波の振幅</value></data>
+<data name="WaveAmplitudeDesc" xml:space="preserve"><value>波線の振幅 (px)</value></data>
+<data name="WaveFrequency" xml:space="preserve"><value>波の周波数</value></data>
+<data name="WaveFrequencyDesc" xml:space="preserve"><value>波線の周波数</value></data>
+<data name="PhaseOffset" xml:space="preserve"><value>位相</value></data>
+<data name="PhaseOffsetDesc" xml:space="preserve"><value>パターンの位相オフセット</value></data>
+<data name="Softness" xml:space="preserve"><value>ソフトネス</value></data>
+<data name="SoftnessDesc" xml:space="preserve"><value>エッジの柔らかさ</value></data>
+<data name="StyleSolid" xml:space="preserve"><value>実線</value></data>
+<data name="StyleSolidDesc" xml:space="preserve"><value>連続した実線</value></data>
+<data name="StyleDotted" xml:space="preserve"><value>点線</value></data>
+<data name="StyleDottedDesc" xml:space="preserve"><value>点で構成された線</value></data>
+<data name="StyleDashed" xml:space="preserve"><value>破線</value></data>
+<data name="StyleDashedDesc" xml:space="preserve"><value>短い線分の繰り返し</value></data>
+<data name="StyleChain" xml:space="preserve"><value>鎖線</value></data>
+<data name="StyleChainDesc" xml:space="preserve"><value>長短の線分が交互する線</value></data>
+<data name="StyleDouble" xml:space="preserve"><value>二重線</value></data>
+<data name="StyleDoubleDesc" xml:space="preserve"><value>二重の平行線</value></data>
+<data name="StyleWave" xml:space="preserve"><value>波線</value></data>
+<data name="StyleWaveDesc" xml:space="preserve"><value>波状の縁取り</value></data>
+<data name="PositionOuter" xml:space="preserve"><value>外側</value></data>
+<data name="PositionOuterDesc" xml:space="preserve"><value>図形の外側に縁取り</value></data>
+<data name="PositionCenter" xml:space="preserve"><value>中央</value></data>
+<data name="PositionCenterDesc" xml:space="preserve"><value>エッジに沿って中央に縁取り</value></data>
+<data name="PositionInner" xml:space="preserve"><value>内側</value></data>
+<data name="PositionInnerDesc" xml:space="preserve"><value>図形の内側に縁取り</value></data>
+</root>

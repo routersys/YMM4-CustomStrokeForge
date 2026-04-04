@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+<data name="CurrentCulture" xml:space="preserve"><value>en-us</value></data>
+<data name="CustomStrokeForge" xml:space="preserve"><value>Custom Stroke Forge</value></data>
+<data name="TagStroke" xml:space="preserve"><value>Stroke</value></data>
+<data name="TagOutline" xml:space="preserve"><value>Outline</value></data>
+<data name="TagCustom" xml:space="preserve"><value>Custom</value></data>
+<data name="GroupEditor" xml:space="preserve"><value>Editor</value></data>
+<data name="GroupStroke" xml:space="preserve"><value>Stroke</value></data>
+<data name="GroupPattern" xml:space="preserve"><value>Pattern</value></data>
+<data name="GroupAdvanced" xml:space="preserve"><value>Advanced</value></data>
+<data name="TabStroke" xml:space="preserve"><value>Stroke</value></data>
+<data name="TabPattern" xml:space="preserve"><value>Pattern</value></data>
+<data name="TabAdvanced" xml:space="preserve"><value>Advanced</value></data>
+<data name="StrokeStyleLabel" xml:space="preserve"><value>Style</value></data>
+<data name="StrokeStyleDesc" xml:space="preserve"><value>Select the stroke line style.</value></data>
+<data name="StrokeWidth" xml:space="preserve"><value>Width</value></data>
+<data name="StrokeWidthDesc" xml:space="preserve"><value>Stroke width in pixels.</value></data>
+<data name="StrokeColor" xml:space="preserve"><value>Color</value></data>
+<data name="StrokeColorDesc" xml:space="preserve"><value>Stroke color.</value></data>
+<data name="StrokeOpacity" xml:space="preserve"><value>Opacity</value></data>
+<data name="StrokeOpacityDesc" xml:space="preserve"><value>Stroke opacity (0-100%).</value></data>
+<data name="StrokePosition" xml:space="preserve"><value>Position</value></data>
+<data name="StrokePositionDesc" xml:space="preserve"><value>Select the stroke position.</value></data>
+<data name="DashLength" xml:space="preserve"><value>Dash Length</value></data>
+<data name="DashLengthDesc" xml:space="preserve"><value>Length of dash segments (px).</value></data>
+<data name="GapLength" xml:space="preserve"><value>Gap Length</value></data>
+<data name="GapLengthDesc" xml:space="preserve"><value>Length of gaps between segments (px).</value></data>
+<data name="ShortDashLength" xml:space="preserve"><value>Short Dash</value></data>
+<data name="ShortDashLengthDesc" xml:space="preserve"><value>Length of short dash in chain pattern (px).</value></data>
+<data name="DoubleGap" xml:space="preserve"><value>Double Gap</value></data>
+<data name="DoubleGapDesc" xml:space="preserve"><value>Gap between double lines (px).</value></data>
+<data name="WaveAmplitude" xml:space="preserve"><value>Wave Amplitude</value></data>
+<data name="WaveAmplitudeDesc" xml:space="preserve"><value>Amplitude of wave pattern (px).</value></data>
+<data name="WaveFrequency" xml:space="preserve"><value>Wave Frequency</value></data>
+<data name="WaveFrequencyDesc" xml:space="preserve"><value>Frequency of wave pattern.</value></data>
+<data name="PhaseOffset" xml:space="preserve"><value>Phase Offset</value></data>
+<data name="PhaseOffsetDesc" xml:space="preserve"><value>Phase offset for pattern animation.</value></data>
+<data name="Softness" xml:space="preserve"><value>Softness</value></data>
+<data name="SoftnessDesc" xml:space="preserve"><value>Softness of the stroke edge.</value></data>
+<data name="StyleSolid" xml:space="preserve"><value>Solid</value></data>
+<data name="StyleSolidDesc" xml:space="preserve"><value>A continuous solid line.</value></data>
+<data name="StyleDotted" xml:space="preserve"><value>Dotted</value></data>
+<data name="StyleDottedDesc" xml:space="preserve"><value>A line made of dots.</value></data>
+<data name="StyleDashed" xml:space="preserve"><value>Dashed</value></data>
+<data name="StyleDashedDesc" xml:space="preserve"><value>Repeating short line segments.</value></data>
+<data name="StyleChain" xml:space="preserve"><value>Chain</value></data>
+<data name="StyleChainDesc" xml:space="preserve"><value>Alternating long and short segments.</value></data>
+<data name="StyleDouble" xml:space="preserve"><value>Double</value></data>
+<data name="StyleDoubleDesc" xml:space="preserve"><value>Two parallel lines.</value></data>
+<data name="StyleWave" xml:space="preserve"><value>Wave</value></data>
+<data name="StyleWaveDesc" xml:space="preserve"><value>A wavy stroke pattern.</value></data>
+<data name="PositionOuter" xml:space="preserve"><value>Outer</value></data>
+<data name="PositionOuterDesc" xml:space="preserve"><value>Stroke outside the shape.</value></data>
+<data name="PositionCenter" xml:space="preserve"><value>Center</value></data>
+<data name="PositionCenterDesc" xml:space="preserve"><value>Stroke centered on the edge.</value></data>
+<data name="PositionInner" xml:space="preserve"><value>Inner</value></data>
+<data name="PositionInnerDesc" xml:space="preserve"><value>Stroke inside the shape.</value></data>
+</root>
