@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 [![.NET](https://img.shields.io/badge/.NET-10.0-purple.svg)](#)
-[![Release](https://img.shields.io/github/v/release/routersys/CustomStrokeForge.svg)](https://github.com/routersys/CustomStrokeForge/releases)
+[![Release](https://img.shields.io/github/v/release/routersys/YMM4-CustomStrokeForge.svg)](https://github.com/routersys/YMM4-CustomStrokeForge/releases)
 
 YukkuriMovieMaker4 (YMM4) 上で動作する、**高品質カスタム縁取り映像エフェクトプラグイン**です。
 Jump Flood Algorithm（JFA）による符号付き距離場（SDF）計算をHLSLカスタムピクセルシェーダーで実装し、実線・点線・破線・鎖線・二重線・波線の6種類の縁取りスタイルを、滑らかなエッジ処理（ソフトネス）付きで描画します。
